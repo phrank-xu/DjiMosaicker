@@ -3,11 +3,11 @@ Sample python scripts to warp and mosaic 26 aerial photos of goat rock beach by 
 
 To run, you will need some 3rd party libraries. Use Mac as an example, following steps will be needed:
 
-  opencv
+  1. opencv:
       brew tap homebrew/science
       brew install opencv 
   
-  matplotlib
+  2. matplotlib:
       pip install matplotlib
   
   numpy
