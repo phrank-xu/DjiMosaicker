@@ -26,9 +26,9 @@ To run, you will need some 3rd party libraries. Use Mac as an example, following
 
 folder structure:
 
-./image
-./image/dji_0644.jpg
-./image/dji_0645.jpg
+./image  
+./image/dji_0644.jpg  
+./image/dji_0645.jpg  
 ./image/dji_0646.jpg
 ./image/dji_0647.jpg
 ./image/dji_0648.jpg
