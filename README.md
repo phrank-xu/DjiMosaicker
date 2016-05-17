@@ -57,7 +57,9 @@ folder structure:
   ./warp.py  
 
 After all the prerequisits are in place, make sure the unittest runs (by running './test_warp.py'). 
+
+You could do debug using unitest by turn off some of the comments such as "# showPlot()"  
   
-Finally call './warp.py' to do the job.  
+Finally call './warp.py' to do the job.  result will be under "mosaic" folder. 
 
   
